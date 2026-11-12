@@ -26,7 +26,7 @@ The following information is created by you and stored in the app's private stor
 - **Project details.** Project names, categories, tags, notes, materials, and a location limited to city and state/region.
 - **Business profile (Pro features).** Information you enter for your digital business card, such as business name, professional title, bio, specialties, phone number, email address, website, social media handles and logo.
 - **Settings.** Preferences such as theme, export style templates, Kiosk Mode timer and an optional Kiosk Mode PIN.
-- **Exported images.** Images you export are created on your device at the moment you export and saved to a temporary file for sharing. They leave your device only if you choose to share them.
+- **Exported images and videos.** Images and reveal videos you export are created on your device at the moment you export, and saved to a temporary file for sharing. They leave your device only if you choose to share them.
 
 You can view, edit or delete this information at any time within the app.
 
@@ -69,7 +69,7 @@ We use this information only to respond to you and to fix problems or improve th
 
 ### 2.4 Sharing You Choose
 
-When you export an image, share a business card, or share a backup file, the content is sent to the app or service you select (for example a social media app, messaging app, email or cloud storage). That service's own privacy policy applies to what you share. We do not receive a copy.
+When you export an image or video, share a business card, or share a backup file, the content is sent to the app or service you select (for example a social media app, messaging app, email or cloud storage). That service's own privacy policy applies to what you share. We do not receive a copy.
 
 ### 2.5 Google Play
 
