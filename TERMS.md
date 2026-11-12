@@ -83,7 +83,7 @@ If you send us suggestions, ideas or feedback, you agree we may use them for any
 
 ## 12. Changes to the App
 
-We may update, change, suspend or discontinue the app or any feature, including ads, layouts and paid features, at any time. Some updates may be required to keep using the app. We are not obligated to provide support, maintenance or any particular feature, and the app may not be available on every device or in every country.
+We may update, change, suspend or discontinue the app or any feature, including ads, layouts and paid features, at any time. Some updates may be required to keep using the app. We are not obligated to provide support, maintenance or any particular feature. The app is offered in the United States and Canada and may not be available on every device.
 
 ## 13. Termination
 
@@ -109,7 +109,7 @@ To the extent permitted by law, you agree to defend, indemnify and hold harmless
 
 These Terms are governed by the laws of the State of Michigan, United States, without regard to its conflict-of-law rules. Any dispute arising from these Terms or the app will be resolved in the state or federal courts located in Michigan, and you and we consent to their jurisdiction. Before filing a claim, you agree to first contact us at RevealFolio@gmail.com and give us 30 days to try to resolve the issue informally.
 
-If you are a consumer living outside the United States, nothing in these Terms takes away any mandatory protections, or your right to bring proceedings in your home courts, under the laws of your country.
+If you are a consumer living in Canada, including Québec, nothing in these Terms takes away any rights or protections you have under the consumer protection laws of your province, including any right to bring proceedings in your home province. Where those laws do not allow the governing-law, venue, warranty-disclaimer or liability-limitation provisions above, those provisions do not apply to you to that extent.
 
 ## 18. General
 

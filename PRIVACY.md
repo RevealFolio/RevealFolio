@@ -116,23 +116,29 @@ RevealFolio is intended for users aged **13 and older** and is not directed to c
 
 ## 9. Your Privacy Rights
 
-Because your projects are stored only on your device, you can access, change or delete them directly in the app at any time.
+RevealFolio is offered in the United States and Canada. Because your projects are stored only on your device, you can access, change or delete them directly in the app at any time.
 
-Depending on where you live, including the European Economic Area, the United Kingdom, California and other U.S. states, you may have the right to:
+**United States.** Depending on your state of residence (for example, California, Colorado, Connecticut, Virginia and other states with consumer privacy laws), you may have the right to:
 
-- access, correct or delete personal information we hold about you (in practice, support emails you sent us);
-- receive a copy of that information;
-- object to or restrict certain processing, or withdraw consent you have given;
-- opt out of targeted advertising (see Section 2.1); and
-- lodge a complaint with your local data protection authority.
+- know what personal information we hold about you and access a copy of it (in practice, support emails you sent us);
+- correct or delete that information;
+- opt out of targeted advertising and the "sale" or "sharing" of personal information as defined by those laws. The advertising data Google collects through AdMob may count as "sharing" for targeted advertising, and you can opt out using your device's ad settings (see Section 2.1); and
+- appeal our decision if we deny your request, by replying to our response.
 
-To make a request, email RevealFolio@gmail.com. We will respond within the time required by applicable law and will not treat you differently for exercising your rights. For data collected by Google through AdMob, you can also use Google's controls and your device's ad settings.
+**Canada.** Under Canadian privacy law, including the *Personal Information Protection and Electronic Documents Act* (PIPEDA) and provincial laws such as Québec's *Act respecting the protection of personal information in the private sector*, you have the right to:
 
-Where the law of the EEA or UK applies, we process support emails on the basis of our legitimate interest in responding to you, and location features on the basis of your choice to use them.
+- access the personal information we hold about you, and ask how it has been used and disclosed;
+- ask us to correct inaccurate or incomplete information;
+- withdraw your consent, for example by opting out of ad personalization or by no longer using an optional feature; and
+- file a complaint with the Office of the Privacy Commissioner of Canada or, in Québec, the Commission d'accès à l'information du Québec.
 
-## 10. International Data Transfers
+**How to make a request.** Email RevealFolio@gmail.com. We may ask for information to confirm your request relates to you, such as the email address you used to contact us. We will respond within the time required by applicable law (generally 30 to 45 days) and will not treat you differently for exercising your rights. For data collected by Google through AdMob, you can also use Google's controls and your device's ad settings.
 
-Google and the OpenStreetMap Foundation may process data in countries other than your own, including the United States, under their own safeguards and policies.
+**Person responsible for privacy.** RevealFolio's Privacy Officer is responsible for protecting personal information and handling privacy requests and complaints. Contact: Privacy Officer, RevealFolio@gmail.com.
+
+## 10. Where Information Is Processed
+
+Information collected by Google (Section 2.1) and the OpenStreetMap Foundation (Section 2.2) may be processed outside your province, state or country, including in the United States and Europe. When it is, it is subject to the laws of those places, and may be accessible to courts, law enforcement and national security authorities there.
 
 ## 11. Links to Other Sites
 
@@ -144,6 +150,7 @@ We may update this Privacy Policy from time to time. When we do, we will change 
 
 ## 13. Contact Us
 
-Questions, concerns or requests about this Privacy Policy:
+Questions, concerns, requests or complaints about this Privacy Policy or our handling of personal information:
 
+**Privacy Officer, RevealFolio**
 **RevealFolio@gmail.com**
