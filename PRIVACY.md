@@ -91,11 +91,12 @@ RevealFolio asks for the following permissions only when needed. You can change 
 | Permission | Why it's used |
 |---|---|
 | Camera | To take before and after photos when you choose "Take Photo". |
-| Photos and media | To let you choose photos from your gallery. |
 | Approximate location | Only when you tap "Use GPS" (Pro), to fill in your city and state/region. |
 | Notifications | To show backup progress and completion, and reveal-video progress and "ready to share" alerts. These are generated on your device; we do not send push notifications. |
 | Run in the background while creating a video | So a reveal video keeps being created on your device if you leave the app. A notification is shown while it runs. Nothing is uploaded. |
 | Internet | To load ads and to search for city names. |
+
+Choosing photos from your gallery uses Android's built-in photo picker, so RevealFolio doesn't need, and doesn't ask for, access to your photo library. It only receives the photos you pick.
 
 ## 5. Backups
 
