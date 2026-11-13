@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** November 11, 2026
+**Effective Date:** November 12, 2026
 
 This Privacy Policy explains how the RevealFolio mobile application ("RevealFolio", the "app") handles information. In this policy, "RevealFolio", "we", "us" and "our" refer to the app and its developer.
 
@@ -75,6 +75,8 @@ When you export an image or video, share a business card, or share a backup file
 
 RevealFolio is distributed through Google Play. Google processes information about your download and, if paid features are offered, your purchases. Payments are handled entirely by Google Play. We never receive your payment card details.
 
+When the app opens, it asks the Google Play app on your device whether a newer version of RevealFolio is available, using Google Play's in-app updates service. If you choose to update, Google Play downloads and installs it. We don't receive any information from this check.
+
 ## 3. What We Do Not Do
 
 - We do not operate servers or user accounts, and we do not upload your photos or projects.
@@ -91,7 +93,8 @@ RevealFolio asks for the following permissions only when needed. You can change 
 | Camera | To take before and after photos when you choose "Take Photo". |
 | Photos and media | To let you choose photos from your gallery. |
 | Approximate location | Only when you tap "Use GPS" (Pro), to fill in your city and state/region. |
-| Notifications | To show backup progress and completion. These are generated on your device; we do not send push notifications. |
+| Notifications | To show backup progress and completion, and reveal-video progress and "ready to share" alerts. These are generated on your device; we do not send push notifications. |
+| Run in the background while creating a video | So a reveal video keeps being created on your device if you leave the app. A notification is shown while it runs. Nothing is uploaded. |
 | Internet | To load ads and to search for city names. |
 
 ## 5. Backups
